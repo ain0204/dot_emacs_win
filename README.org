@@ -1,0 +1,9 @@
+* dot_emacs_win
+  windows用の設定
+
+* Usage
+  mv dot_emacs_win .emacs.d
+
+* path_example
+  - HOME: C:\Users\****
+  - path: C:\emacs\bin
